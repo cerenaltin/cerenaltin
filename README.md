@@ -7,7 +7,7 @@
   - 📚 I'm currently learning Python, SQL, and diving into machine learning.
   - 🚀 I'm currently exploring data science techniques for smarter solutions.
 </div>
-
+</br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=cerenaltin" height="150" alt="languages graph" />
 </div>
