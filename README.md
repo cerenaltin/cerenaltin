@@ -22,7 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo" />
 </div>
 
-
+</br>
 
 <div align="center">
   <!--<a href="" target="_blank">
