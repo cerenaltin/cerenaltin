@@ -4,7 +4,7 @@
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
   - 🔧 As an Industrial Engineer, I'm passionate about optimizing processes and solving problems.
-  - 📚 I'm currently learning Python, SQL, and diving into machine learning.
+  - 📚 I'm currently learning Python, SQL.
   - 🚀 I'm currently exploring data science techniques for smarter solutions.
 </div>
 </br>
