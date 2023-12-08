@@ -8,7 +8,7 @@
   - 🚀 I'm currently exploring data science techniques for smarter solutions.
 </div>
 
-<div align="center">
+<div align="left">
   <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=cerenaltin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerenaltin&theme=tokyonight&hide_border=false" /> <br/>
@@ -20,7 +20,7 @@
 </br>
 </br> 
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo" />
@@ -28,7 +28,7 @@
 
 </br>
 
-<div align="center">
+<div align="left">
   <!--<a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
   </a>-->
