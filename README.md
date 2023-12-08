@@ -11,8 +11,8 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=cerenaltin" height="150" alt="languages graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=cerenaltin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=cerenaltin&theme=tokyonight&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cerenaltin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerenaltin&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerenaltin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
 
