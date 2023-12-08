@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo" />
 </div>
 
-</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 
 <div align="left">
   <!--<a href="" target="_blank">
