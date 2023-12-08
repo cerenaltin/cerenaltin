@@ -10,8 +10,8 @@
 </br>
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=cerenaltin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerenaltin&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cerenaltin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/> <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cerenaltin&theme=tokyonight&hide_border=false" /> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cerenaltin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
