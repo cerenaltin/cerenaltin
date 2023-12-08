@@ -8,7 +8,9 @@
   - 🚀 I'm currently exploring data science techniques for smarter solutions.
 </div>
 </br>
-<div align="right">
+</br>
+</br>
+<div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=cerenaltin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false"/> <br/>
 </div>
