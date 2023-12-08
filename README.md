@@ -19,14 +19,14 @@
 </br>
 </br>
 </br> 
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="50" alt="html5 logo" />
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" width="50" alt="python logo" />
 </div>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="35" width="100%">
+
 
 <div align="left">
   <!--<a href="" target="_blank">
